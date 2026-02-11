@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Johns Hopkins University</a>
+subtitle: AI Safety & Evals Researcher
 
 profile:
   align: right
