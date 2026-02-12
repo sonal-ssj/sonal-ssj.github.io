@@ -1,33 +1,28 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: MedExpert presented at ML4H
+date: 2025-12-02 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+𝗚𝗮𝗽: Most medical benchmarks test knowledge (e.g., multiple-choice QA), but not safety in open-ended patient-chatbot interactions.
+𝗥𝗶𝘀𝗸: LLMs generate plausible but dangerous hallucinations or omit life-critical warnings. Patients cannot verify medical accuracy, so we need expert clinicians.
+𝗡𝗲𝗲𝗱: Fine-grained, expert-level evaluation of Factuality and Completeness of LLMs.
 
----
+𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗶𝗻𝗴 𝗠𝗲𝗱𝗘𝘅𝗽𝗲𝗿𝘁, 𝗱𝗮𝘁𝗮𝘀𝗲𝘁 𝗳𝗼𝗿 𝗺𝗲𝗱𝗶𝗰𝗮𝗹 𝗰𝗵𝗮𝘁𝗯𝗼𝘁 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻, 𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗲𝗱 𝗮𝘁 𝗠𝗟𝟰𝗛! 🎓🤖
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+𝗠𝗲𝗱𝗘𝘅𝗽𝗲𝗿𝘁-𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸: 540 clinician-annotated Question-Response pairs from the high-risk medical specialties of Prenatal Care and Young Adult Mental Health. Additional 32 dual-annotated pairs. Subtasks: factuality and omission detection.
 
-#### Hipster list
+𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻-𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲𝘀: 100+ unique questions were authored by clinicians based on focus groups & clinical experience. Each question was answered by 5 open-source LLMs: Llama-2 7B, Llama-3.3 70B, OLMo-2 13B, Gemma-2 27B, and OpenBioLLM-70B
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+𝗔𝗻𝗻𝗼𝘁𝗮𝘁𝗶𝗼𝗻𝘀: 8 practicing clinicians (MDs, Residents, LCSW)
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+MedExpert includes detailed annotations for factuality & omissions with severity ratings to help keep evaluation systems rigorous and accountable.
 
----
+Big thanks to the team at JHU, RTX-BBN, and our clinical collaborators! 🙏 Alexandra DeLucia, Lillian Chen, Leslie Miller, Heyuan Huang, Sonal Joshi, Jonathan Lasko, Sarah Collica, Ryan Moore, Haoling Qiu, Peter Zandi, Damianos Karakos, Mark Dredze. 
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+We have open-sourced the code and data to support the community’s drive for safer medical AI. 🚀
+[𝗣𝗮𝗽𝗲𝗿](https://openreview.net/forum?id=rkLAzDPlqL)
+[𝗚𝗶𝘁𝗛𝘂𝗯](https://github.com/JHU-CLSP/MedExpert)
+[𝗗𝗮𝘁𝗮𝘀𝗲𝘁](https://huggingface.co/datasets/sonal-ssj/MedExpert)
