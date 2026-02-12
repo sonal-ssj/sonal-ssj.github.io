@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-postdoc-with-prof-mark-dredze",
+          title: 'Started my postdoc with Prof. Mark Dredze!',
           description: "",
           section: "News",},{id: "news-awarded-2025-camlis-student-scholarship-link-sparkles",
           title: 'Awarded 2025 CAMLIS Student Scholarship! Link :sparkles:',
