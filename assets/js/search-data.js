@@ -394,15 +394,15 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-awarded-2025-camlis-student-scholarship-link-sparkles",
+          title: 'Awarded 2025 CAMLIS Student Scholarship! Link :sparkles:',
+          description: "",
+          section: "News",},{id: "news-medexpert-presented-at-ml4h",
+          title: 'MedExpert presented at ML4H',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-awarded-2025-camlis-student-scholarship-link-sparkles",
-          title: 'Awarded 2025 CAMLIS Student Scholarship! Link :sparkles:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
