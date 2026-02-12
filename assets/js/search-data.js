@@ -399,8 +399,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-awarded-2025-camlis-student-scholarship-sparkles-smile",
-          title: 'Awarded 2025 CAMLIS Student Scholarship! :sparkles: :smile:',
+            },},{id: "news-awarded-2025-camlis-student-scholarship-link-sparkles",
+          title: 'Awarded 2025 CAMLIS Student Scholarship! Link :sparkles:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
