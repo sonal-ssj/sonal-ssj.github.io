@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Postdoctoral Fellow at [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu) working with [Prof. Mark Dredze](https://www.cs.jhu.edu/~mdredze/). I am working on ARPA-H's [CARE project](Chatbot Accuracy and Reliability Evaluation (CARE)) on `AI Evaluations` for medical chatbots. 
+I am currently a Postdoctoral Fellow at [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu) working with [Prof. Mark Dredze](https://www.cs.jhu.edu/~mdredze/). I am working on ARPA-H's [Chatbot Accuracy and Reliability Evaluation (CARE) project](https://arpa-h.gov/news-and-events/arpa-h-launches-exploration-topic-improve-chatbots-patient-facing-applications) on `AI Evaluations` for medical chatbots. 
 
 Previously, I did my PhD in [Electrical & Computer Engineering](https://engineering.jhu.edu/ece/) working with [Prof. Najim Dehak](https://engineering.jhu.edu/najim/index.html) in `AI Safety` working on two DARPA projects-[Guaranteeing AI Robustness against Deception(GARD)](https://www.darpa.mil/research/programs/guaranteeing-ai-robustness-against-deception) and [Reverse Engineering of Deceptions (RED)](https://www.darpa.mil/research/programs/reverse-engineering-of-deceptions). My thesis was titled 'Securing Speech Systems Against Adversarial and Poisoning Attacks'. Please find my work on [publications page](/al-folio/publications/).
 
