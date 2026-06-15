@@ -2,7 +2,7 @@
 layout: page
 title: Analyzing Clinician–System Disagreements
 description: Where automated medical evaluation diverges from expert judgment — and why scaling doesn't fix it.
-img: assets/img/3.jpg
+img: assets/img/proj_disagreements.png
 importance: 3
 category: "Evaluation & Safety"
 ---

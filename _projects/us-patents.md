@@ -2,7 +2,7 @@
 layout: page
 title: US Patents — Robust Speech Recognition
 description: Foundational robustness work, patented.
-img: assets/img/11.jpg
+img: assets/img/proj_patents.png
 importance: 6
 category: "Speech & Robustness"
 ---

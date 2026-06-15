@@ -2,7 +2,7 @@
 layout: page
 title: "Data Annotation: Rubrics, Interface & Processing"
 description: End-to-end human-data infrastructure for expert-grade evaluation.
-img: assets/img/2.jpg
+img: assets/img/proj_annotation.png
 importance: 2
 category: "Evaluation & Safety"
 ---
