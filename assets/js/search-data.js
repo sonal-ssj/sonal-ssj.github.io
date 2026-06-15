@@ -409,7 +409,7 @@ ninja.data = [{
               window.location.href = "/projects/agentic-eval-pipeline/";
             },},{id: "projects-analyzing-clinician-system-disagreements",
           title: 'Analyzing Clinician–System Disagreements',
-          description: "Where automated medical evaluation diverges from expert judgment — and why scaling doesn&#39;t fix it.",
+          description: "Where automated medical evaluation diverges from expert judgment, and why scaling doesn&#39;t fix it.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clinician-system-disagreements/";
             },},{id: "projects-data-annotation-rubrics-interface-amp-processing",
@@ -429,7 +429,7 @@ ninja.data = [{
               window.location.href = "/projects/medexpert/";
             },},{id: "projects-personalized-keyword-spotting-at-microsoft-azure",
           title: 'Personalized Keyword Spotting at Microsoft Azure',
-          description: "Wake-word detection that knows who&#39;s speaking — and resists noise and adversarial audio.",
+          description: "Wake-word detection that knows who&#39;s speaking, and resists noise and adversarial audio.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/microsoft-keyword-spotting/";
             },},{id: "projects-asr-for-noisy-radio-speech-tts-for-fine-tuning",
@@ -437,18 +437,18 @@ ninja.data = [{
           description: "Turning noisy EMS radio into structured clinical data before the patient arrives.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prehospital-voice-triage/";
-            },},{id: "projects-robust-speech-under-train-test-distribution-mismatch",
-          title: 'Robust Speech Under Train–Test Distribution Mismatch',
-          description: "Keeping ASR accurate when test-time audio doesn&#39;t match training data — noise, channel, and far-field shift.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/robust-speech-mismatch/";
-            },},{id: "projects-securing-speech-systems-against-adversarial-amp-poisoning-attacks",
-          title: 'Securing Speech Systems Against Adversarial &amp;amp; Poisoning Attacks',
-          description: "PhD dissertation work — top-ranked DARPA GARD/RED blue-team defenses for speech and speaker recognition.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/securing-speech-systems/";
             },},{id: "projects-us-patents-robust-speech-recognition",
-          title: 'US Patents — Robust Speech Recognition',
+          title: 'US Patents: Robust Speech Recognition',
           description: "Foundational robustness work, patented.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/us-patents/";
