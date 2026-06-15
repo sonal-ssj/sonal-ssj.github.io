@@ -139,6 +139,23 @@ ul.task-list input[type="checkbox"] {
     img {
       width: 100%;
     }
+
+    // Horizontal (one project per full-width row): image fills the left
+    // column edge-to-edge, vertically centered, instead of sitting in a
+    // padded box.
+    .row.no-gutters .card-img {
+      width: 100%;
+      height: 100%;
+      padding-top: 0;
+      object-fit: cover;
+    }
+
+    .row.no-gutters figure,
+    .row.no-gutters picture {
+      height: 100%;
+      margin: 0;
+      display: block;
+    }
   }
 
   .col {
@@ -152,12 +169,12 @@ ul.task-list input[type="checkbox"] {
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    color: var(--global-text-color);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    text-align: right;
+    text-align: left;
   }
 }
 

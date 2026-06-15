@@ -6,7 +6,7 @@ description: Selected research and engineering projects across AI evaluation, sa
 nav: true
 nav_order: 3
 display_categories: ["Evaluation & Safety", "Speech & Robustness"]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -22,7 +22,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
+    <div class="row row-cols-1">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
@@ -48,7 +48,7 @@ horizontal: false
 {% if page.horizontal %}
 
   <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
+    <div class="row row-cols-1">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
