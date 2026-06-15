@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Coming soon...",
+          description: "Selected research and engineering projects across AI evaluation, safety, and speech.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -402,11 +402,56 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-agentic-evaluation-pipeline-for-medical-ai",
+          title: 'Agentic Evaluation Pipeline for Medical AI',
+          description: "An agentic triage layer that cuts expert annotation cost while preserving clinical grounding (ARPA-H CARE).",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/agentic-eval-pipeline/";
+            },},{id: "projects-analyzing-clinician-system-disagreements",
+          title: 'Analyzing Clinician–System Disagreements',
+          description: "Where automated medical evaluation diverges from expert judgment — and why scaling doesn&#39;t fix it.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/clinician-system-disagreements/";
+            },},{id: "projects-data-annotation-rubrics-interface-amp-processing",
+          title: 'Data Annotation: Rubrics, Interface &amp;amp; Processing',
+          description: "End-to-end human-data infrastructure for expert-grade evaluation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/expert-annotations/";
+            },},{id: "projects-low-resource-hindi-asr-for-400k-farmers-mkrishi",
+          title: 'Low-Resource Hindi ASR for 400K+ Farmers (mKRISHI)',
+          description: "Speech recognition deployed at scale for Indian agriculture.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hindi-asr-mkrishi/";
+            },},{id: "projects-medexpert",
+          title: 'MedExpert',
+          description: "A clinician-annotated benchmark for evaluating the factuality and completeness of medical chatbots.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/medexpert/";
+            },},{id: "projects-personalized-keyword-spotting-at-microsoft-azure",
+          title: 'Personalized Keyword Spotting at Microsoft Azure',
+          description: "Wake-word detection that knows who&#39;s speaking — and resists noise and adversarial audio.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/microsoft-keyword-spotting/";
+            },},{id: "projects-asr-for-noisy-radio-speech-tts-for-fine-tuning",
+          title: 'ASR for Noisy Radio Speech, TTS for Fine-Tuning',
+          description: "Turning noisy EMS radio into structured clinical data before the patient arrives.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/prehospital-voice-triage/";
+            },},{id: "projects-robust-speech-under-train-test-distribution-mismatch",
+          title: 'Robust Speech Under Train–Test Distribution Mismatch',
+          description: "Keeping ASR accurate when test-time audio doesn&#39;t match training data — noise, channel, and far-field shift.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/robust-speech-mismatch/";
+            },},{id: "projects-securing-speech-systems-against-adversarial-amp-poisoning-attacks",
+          title: 'Securing Speech Systems Against Adversarial &amp;amp; Poisoning Attacks',
+          description: "PhD dissertation work — top-ranked DARPA GARD/RED blue-team defenses for speech and speaker recognition.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/securing-speech-systems/";
+            },},{id: "projects-us-patents-robust-speech-recognition",
+          title: 'US Patents — Robust Speech Recognition',
+          description: "Foundational robustness work, patented.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/us-patents/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
@@ -418,46 +463,32 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%73%6F%6E%61%6C.%6A%6F%73%68%69.%6D%61%69%6C@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=wiNtxkwAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/sonal-s-joshi", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/sonal-ssj", "_blank");
         },
       },{
       id: 'light-theme',
