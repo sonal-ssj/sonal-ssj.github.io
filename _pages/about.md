@@ -34,7 +34,7 @@ I build ways to tell when AI systems can be trusted, and when they can't. The sh
 
 - **Why it's hard:** humans and AI don't fail the same way. Sometimes they flag completely different errors, which means _alignment itself_ is still an open problem, even for a single medical answer.
 
-- **Before academia:** researcher at **Microsoft** and **Tata Research**. I've published widely and hold two US patents (see my [publications](/publications/)).
+- **The path here:** during my PhD I spent a summer interning with the **Microsoft Speech team**. Before the PhD, I worked at **TCS Research & Innovation** for a couple of years, after finishing my M.Tech at **IIT Jodhpur**, where my thesis was on speaker identification. Along the way I've published widely and hold two US patents (see my [publications](/publications/)).
 
 I'm now looking to bring this work, trustworthy and safety-critical AI, into industry. If that's your world, I'd genuinely love to connect and learn from your experience.
 
