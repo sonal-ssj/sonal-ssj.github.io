@@ -24,8 +24,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Postdoctoral Fellow at [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu) working with [Prof. Mark Dredze](https://www.cs.jhu.edu/~mdredze/). I am working on ARPA-H's [Chatbot Accuracy and Reliability Evaluation (CARE) project](https://arpa-h.gov/news-and-events/arpa-h-launches-exploration-topic-improve-chatbots-patient-facing-applications) on `AI Evaluations` for medical chatbots.
+I build ways to tell when AI systems can be trusted, and when they can't. The short version:
 
-Previously, I did my PhD in [Electrical & Computer Engineering](https://engineering.jhu.edu/ece/) working with [Prof. Najim Dehak](https://engineering.jhu.edu/najim/index.html) in `AI Safety` working on two DARPA projects-[Guaranteeing AI Robustness against Deception(GARD)](https://www.darpa.mil/research/programs/guaranteeing-ai-robustness-against-deception) and [Reverse Engineering of Deceptions (RED)](https://www.darpa.mil/research/programs/reverse-engineering-of-deceptions). My thesis was titled 'Securing Speech Systems Against Adversarial and Poisoning Attacks'. Please find my work on [publications page](/publications/).
+- **PhD at Johns Hopkins, in speech AI.** I built defenses against attacks on speech systems under a worst-case setup: attackers knew our defense completely, while we knew nothing about theirs. Our systems were top-ranked in DARPA evaluations ([GARD](https://www.darpa.mil/research/programs/guaranteeing-ai-robustness-against-deception) and [RED](https://www.darpa.mil/research/programs/reverse-engineering-of-deceptions)), stress-tested by teams from Two Six Technologies, MITRE, and IBM.
 
-When I am not doing research, you can find me experimenting with global cuisines 🧑‍🍳️😋 or empowering women in STEM! I currently serve as Board Member Operations Manager at [Align](https://align-sec.org/).
+- **Now a Postdoc at JHU's [CLSP](https://www.clsp.jhu.edu/), with [Prof. Mark Dredze](https://www.cs.jhu.edu/~mdredze/).** I lead AI safety evaluation for an ARPA-H funded [medical chatbot project](https://arpa-h.gov/news-and-events/arpa-h-launches-exploration-topic-improve-chatbots-patient-facing-applications). When a patient asks something like _"Can I take ibuprofen?"_, the answer can carry **hallucinations** (confidently wrong information) or **omissions** (a clinician would flag that something critical is missing).
+
+- **How I work:** hand in hand with OB/GYNs and psychiatrists, end to end. From clinician annotations, to improving the AI detectors (LLM-as-judge), to closing the loop on where clinicians and AI disagree.
+
+- **Why it's hard:** humans and AI don't fail the same way. Sometimes they flag completely different errors, which means _alignment itself_ is still an open problem, even for a single medical answer.
+
+- **Before academia:** researcher at **Microsoft** and **Tata Research**. I've published widely and hold two US patents (see my [publications](/publications/)).
+
+I'm now looking to bring this work, trustworthy and safety-critical AI, into industry. If that's your world, I'd genuinely love to connect and learn from your experience.
+
+Outside research, you'll find me experimenting with global cuisines 🧑‍🍳️😋 or working to get more women into STEM as Board Member & Operations Manager at [Align](https://align-sec.org/).
