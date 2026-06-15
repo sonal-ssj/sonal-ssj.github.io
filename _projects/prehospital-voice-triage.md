@@ -11,7 +11,7 @@ A current project (Harvard collaboration, PI: Gabriel Brat, MD) building an
 **agentic voice interface** for pre-hospital neurological emergency triage (NEI-6).
 
 The pipeline converts noisy EMS radio audio into structured clinical markers
-*before the patient arrives*:
+_before the patient arrives_:
 
 - **Synthetic data generation** via TTS+LLM to overcome scarce, sensitive real-world audio,
 - **fine-tuned ASR** on a synthetic–real mix,

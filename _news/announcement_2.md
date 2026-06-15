@@ -20,7 +20,7 @@ related_posts: false
 
 MedExpert includes detailed annotations for factuality & omissions with severity ratings to help keep evaluation systems rigorous and accountable.
 
-Big thanks to the team at JHU, RTX-BBN, and our clinical collaborators! 🙏 Alexandra DeLucia, Lillian Chen, Leslie Miller, Heyuan Huang, Sonal Joshi, Jonathan Lasko, Sarah Collica, Ryan Moore, Haoling Qiu, Peter Zandi, Damianos Karakos, Mark Dredze. 
+Big thanks to the team at JHU, RTX-BBN, and our clinical collaborators! 🙏 Alexandra DeLucia, Lillian Chen, Leslie Miller, Heyuan Huang, Sonal Joshi, Jonathan Lasko, Sarah Collica, Ryan Moore, Haoling Qiu, Peter Zandi, Damianos Karakos, Mark Dredze.
 
 We have open-sourced the code and data to support the community’s drive for safer medical AI. 🚀
 [𝗣𝗮𝗽𝗲𝗿](https://openreview.net/forum?id=rkLAzDPlqL)

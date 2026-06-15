@@ -7,7 +7,7 @@ first_name: Sonal
 middle_name: #
 last_name: Joshi
 contact_note: #
-description: # 
+description: #
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👩🏻‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

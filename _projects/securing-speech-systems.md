@@ -14,13 +14,13 @@ blue team across the **DARPA GARD** and **RED** programs.
 
 - **Adversarial ASR:** tandem adversarial fine-tuning + denoiser defense cut WER
   degradation **45%** against PGD-500 attacks {% cite joshi2022defense %}
-  *(Interspeech 2022, Oral)*.
+  _(Interspeech 2022, Oral)_.
 - **Data poisoning:** an unsupervised KMeans defense over DINO embeddings dropped attack
-  success from **99% → 0.25%** {% cite thebaud2023clustering %} *(ASRU 2023)*.
+  success from **99% → 0.25%** {% cite thebaud2023clustering %} _(ASRU 2023)_.
 - **Speaker recognition:** ParallelWaveGAN vocoder preprocessing gave **~41%** average
-  absolute robustness gain {% cite joshi2021study %} *(IEEE TIFS, IF 7.2)*.
+  absolute robustness gain {% cite joshi2021study %} _(IEEE TIFS, IF 7.2)_.
 - **Attack forensics:** ~90% accuracy classifying known attacks and victim models
-  {% cite joshi2024unraveling %} *(Odyssey 2024, Oral)*.
+  {% cite joshi2024unraveling %} _(Odyssey 2024, Oral)_.
 
-Dissertation: *Securing Speech Systems Against Adversarial and Poisoning Attacks*
+Dissertation: _Securing Speech Systems Against Adversarial and Poisoning Attacks_
 (JHU, 2025).

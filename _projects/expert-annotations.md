@@ -17,7 +17,7 @@ AI teams increasingly depend on:
 - **Annotation interface.** Built the clinician annotation tool (John Snow Labs + AWS)
   used by 8 practicing clinicians (MDs, residents, LCSW).
 - **Eval interfaces (HTML).** Built interfaces that let the engineering team triage and
-  clean system detections (TP/FP/FN/TN, with filtering and anonymization) *before*
+  clean system detections (TP/FP/FN/TN, with filtering and anonymization) _before_
   clinician review — cutting clinician annotation load ~30%.
 - **Processing.** Engineered the pipeline that turns raw expert annotations into clean,
   analysis-ready evaluation data.
