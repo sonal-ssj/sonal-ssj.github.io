@@ -30,7 +30,7 @@ I build ways to tell when AI systems can be trusted, and when they can't. The sh
 
 - **Now a Postdoc at JHU's [CLSP](https://www.clsp.jhu.edu/), with [Prof. Mark Dredze](https://www.cs.jhu.edu/~mdredze/).** I lead AI safety evaluation for an ARPA-H funded [medical chatbot project](https://arpa-h.gov/news-and-events/arpa-h-launches-exploration-topic-improve-chatbots-patient-facing-applications). When a patient asks something like _"Can I take ibuprofen?"_, the answer can carry **hallucinations** (confidently wrong information) or **omissions** (a clinician would flag that something critical is missing).
 
-- **How I work:** hand in hand with OB/GYNs and psychiatrists, end to end. From clinician annotations, to improving the AI detectors (LLM-as-judge), to closing the loop on where clinicians and AI disagree.
+- My work involves extensive collaboration with domain experts (clinicians), and across engineering and research, to optimize the whole pipeline — from data annotation, to improving the AI detectors (LLM-as-judge + RAG), to closing the loop where clinicians and AI disagree.
 
 - **Why it's hard:** humans and AI don't fail the same way. Sometimes they flag completely different errors, which means _alignment itself_ is still an open problem, even for a single medical answer.
 
