@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analyzing Clinician–System Disagreements
-description: Where automated medical evaluation diverges from expert judgment — and why scaling doesn't fix it.
+description: Where automated medical evaluation diverges from expert judgment, and why scaling doesn't fix it.
 img: assets/img/proj_disagreements.png
 importance: 3
 category: "Evaluation & Safety"
@@ -12,7 +12,7 @@ chatbot outputs.
 
 **LLM-as-a-Judge fails on completeness.** Judges score near chance (**AUC 0.49–0.66**)
 across 3 rubrics, 3 models, and 2 clinician datasets. Even when an LLM and a clinician
-reach the same verdict, only **24.6%** cite the same omission — verdict-level agreement
+reach the same verdict, only **24.6%** cite the same omission. Verdict-level agreement
 hides disagreement on the reasons.
 _"Same Verdict, Different Reasons: LLM-as-a-Judge and Clinician Disagreement on Medical
 Chatbot Completeness,"_ **in preparation for HCOMP 2026**.

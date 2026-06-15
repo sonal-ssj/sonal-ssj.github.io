@@ -12,6 +12,6 @@ low-resource, real-world deployment.
 
 - Deployed **low-resource Hindi ASR** for the
   [mKRISHI](https://www.tatatrusts.org/our-work/livelihood/agriculture-practices/mkrishi)
-  agricultural platform serving **400K+ farmers** — a Kaldi-based hybrid pipeline
+  agricultural platform serving **400K+ farmers**: a Kaldi-based hybrid pipeline
   bootstrapped on English acoustic models, powering automated call-topic classification
   and routing.

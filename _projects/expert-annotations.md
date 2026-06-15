@@ -8,7 +8,7 @@ category: "Evaluation & Safety"
 ---
 
 High-quality evaluation data is only as good as the pipeline that produces it. I own the
-full **expert annotation stack** — the human-data infrastructure that frontier labs and
+full **expert annotation stack**, the human-data infrastructure that frontier labs and
 AI teams increasingly depend on:
 
 - **Rubrics.** Designed and iterated evaluation rubrics with domain experts across
@@ -18,6 +18,6 @@ AI teams increasingly depend on:
   used by 8 practicing clinicians (MDs, residents, LCSW).
 - **Eval interfaces (HTML).** Built interfaces that let the engineering team triage and
   clean system detections (TP/FP/FN/TN, with filtering and anonymization) _before_
-  clinician review — cutting clinician annotation load ~30%.
+  clinician review, cutting clinician annotation load ~30%.
 - **Processing.** Engineered the pipeline that turns raw expert annotations into clean,
   analysis-ready evaluation data.

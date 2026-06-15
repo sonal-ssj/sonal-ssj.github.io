@@ -18,5 +18,5 @@ _before the patient arrives_:
 - **LLM-based transcript correction** to recover clinically meaningful content from
   degraded transmissions.
 
-The evaluation target is downstream clinical-marker accuracy — not just transcript
+The evaluation target is downstream clinical-marker accuracy, not just transcript
 word-error-rate.
