@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sonal-ssj
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - JHU-CLSP/MedExpert
+  - sonal-ssj/Omission_Detection_GUI
+  - sonal-ssj/ADReSSo_2021_JHU
+  - sonal-ssj/sonal-ssj.github.io
