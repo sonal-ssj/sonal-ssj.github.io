@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Securing Speech Systems Against Adversarial & Poisoning Attacks
-description: PhD dissertation work — top-ranked DARPA GARD/RED blue-team defenses for speech and speaker recognition.
-img: assets/img/7.jpg
+description: PhD dissertation work: top-ranked DARPA GARD/RED blue-team defenses for speech and speaker recognition.
+img: assets/img/proj_securing_speech.jpg
 importance: 1
 category: "Speech & Robustness"
 related_publications: true
