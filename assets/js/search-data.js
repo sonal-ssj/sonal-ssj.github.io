@@ -402,7 +402,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-agentic-evaluation-pipeline-for-medical-ai",
+            },},{id: "news-submitted-taxonomy-driven-performance-analysis-of-retrieval-based-open-ended-factuality-evaluation-a-medical-case-study-to-acl-arr-2026",
+          title: 'Submitted Taxonomy-Driven Performance Analysis of Retrieval-Based Open-ended Factuality Evaluation: A Medical Case Study...',
+          description: "",
+          section: "News",},{id: "news-submitted-a-deployment-specific-safety-framework-for-patient-facing-medical-ai-chatbots-to-nature",
+          title: 'Submitted A Deployment-Specific Safety Framework for Patient-Facing Medical AI Chatbots to Nature. 🩺...',
+          description: "",
+          section: "News",},{id: "news-submitted-same-verdict-different-reasons-llm-as-a-judge-and-clinician-disagreement-on-medical-chatbot-completeness-to-hcomp-2026",
+          title: 'Submitted Same Verdict, Different Reasons: LLM-as-a-Judge and Clinician Disagreement on Medical Chatbot Completeness...',
+          description: "",
+          section: "News",},{id: "projects-agentic-evaluation-pipeline-for-medical-ai",
           title: 'Agentic Evaluation Pipeline for Medical AI',
           description: "An agentic triage layer that cuts expert annotation cost while preserving clinical grounding (ARPA-H CARE).",
           section: "Projects",handler: () => {
