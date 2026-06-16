@@ -34,7 +34,7 @@ I find where AI fails and build solutions that fix it.
   - My work involves extensive collaboration with domain experts (clinicians), and across engineering and research, to optimize the whole pipeline — from data annotation, to improving the AI detectors (LLM-as-judge + RAG), to closing the loop where clinicians and AI disagree.
   - **Why it's hard:** humans and AI don't fail the same way. Sometimes they flag completely different errors, which means _alignment itself_ is still an open problem, even for a single medical answer.
 
-- **The path here:** During my PhD I spent a summer interning with the **Microsoft Speech team**. Before the PhD, I worked at **TCS Research & Innovation** for a couple of years, after finishing my M.Tech at **IIT Jodhpur**, where my thesis was on speaker identification. Along the way I've published widely and hold two US patents (see my [publications](/publications/)).
+- **The path here:** It began with an M.Tech at **IIT Jodhpur** (thesis on speaker identification), then two years at **TCS Research & Innovation**, and during my PhD, a summer interning with the **Microsoft Speech team**. Along the way I've published widely and hold two US patents (see my [publications](/publications/)).
 
 I'm now looking to bring this work, trustworthy and safety-critical AI, into industry. If that's your world, I'd genuinely love to connect and learn from your experience.
 
