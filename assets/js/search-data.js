@@ -417,8 +417,8 @@ ninja.data = [{
           description: "End-to-end human-data infrastructure for expert-grade evaluation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/expert-annotations/";
-            },},{id: "projects-low-resource-hindi-asr-for-400k-farmers-mkrishi",
-          title: 'Low-Resource Hindi ASR for 400K+ Farmers (mKRISHI)',
+            },},{id: "projects-low-resource-hindi-asr-for-indian-farmers-mkrishi",
+          title: 'Low-Resource Hindi ASR for Indian Farmers (mKRISHI)',
           description: "Speech recognition deployed at scale for Indian agriculture.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hindi-asr-mkrishi/";
