@@ -2,7 +2,7 @@
 layout: page
 title: Agentic Evaluation Pipeline for Medical AI
 description: An agentic triage layer that cuts expert annotation cost while preserving clinical grounding (ARPA-H CARE).
-img: assets/img/5.jpg
+img: assets/img/proj_agentic_pipeline.png
 importance: 4
 category: "Evaluation & Safety"
 ---
