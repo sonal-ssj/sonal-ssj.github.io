@@ -2,7 +2,7 @@
 layout: page
 title: Low-Resource Hindi ASR for Indian Farmers (mKRISHI)
 description: Speech recognition deployed at scale for Indian agriculture.
-img: assets/img/6.jpg
+img: assets/img/proj_mkrishi.png
 importance: 5
 category: "Speech & Robustness"
 ---
