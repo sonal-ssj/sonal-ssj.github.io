@@ -63,3 +63,5 @@ horizontal: true
   {% endif %}
 {% endif %}
 </div>
+
+<p class="text-muted mt-4"><small>Some project illustrations were generated with Google Gemini.</small></p>
