@@ -2,7 +2,7 @@
 layout: page
 title: Personalized Keyword Spotting at Microsoft Azure
 description: Wake-word detection that knows who's speaking, and resists noise and adversarial audio.
-img: assets/img/4.jpg
+img: assets/img/proj_msft_kws.png
 importance: 4
 category: "Speech & Robustness"
 ---
