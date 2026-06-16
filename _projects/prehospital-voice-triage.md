@@ -2,7 +2,7 @@
 layout: page
 title: ASR for Noisy Radio Speech, TTS for Fine-Tuning
 description: Turning noisy EMS radio into structured clinical data before the patient arrives.
-img: assets/img/9.jpg
+img: assets/img/proj_nei6.png
 importance: 2
 category: "Speech & Robustness"
 ---
