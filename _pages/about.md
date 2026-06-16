@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I build ways to tell when AI systems can be trusted, and when they can't. The short version:
+I find where AI fails and build solutions that fix it.
 
-- **PhD at Johns Hopkins, in speech AI.** I built defenses against attacks on speech systems under a worst-case setup: attackers knew our defense completely, while we knew nothing about theirs. Our systems were top-ranked in DARPA evaluations ([GARD](https://www.darpa.mil/research/programs/guaranteeing-ai-robustness-against-deception) and [RED](https://www.darpa.mil/research/programs/reverse-engineering-of-deceptions)), stress-tested by teams from Two Six Technologies, MITRE, and IBM.
+- **PhD at Johns Hopkins, in speech AI**, advised by **Prof. Najim Dehak**. I built defenses against attacks on speech systems under a worst-case setup: attackers knew our defense completely, while we knew nothing about theirs. Our systems were top-ranked in DARPA evaluations ([GARD](https://www.darpa.mil/research/programs/guaranteeing-ai-robustness-against-deception) and [RED](https://www.darpa.mil/research/programs/reverse-engineering-of-deceptions)), stress-tested by teams from Two Six Technologies, MITRE, and IBM.
 
 - **Now a Postdoc at JHU's [CLSP](https://www.clsp.jhu.edu/), with [Prof. Mark Dredze](https://www.cs.jhu.edu/~mdredze/).** I lead AI safety evaluation for an ARPA-H funded [medical chatbot project](https://arpa-h.gov/news-and-events/arpa-h-launches-exploration-topic-improve-chatbots-patient-facing-applications). When a patient asks something like _"Can I take ibuprofen?"_, the answer can carry **hallucinations** (confidently wrong information) or **omissions** (a clinician would flag that something critical is missing).
 
