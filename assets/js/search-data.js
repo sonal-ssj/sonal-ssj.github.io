@@ -23,7 +23,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "post-what-breaks-this-system-and-why-and-how-can-i-fix-it",
+        
+          title: "What Breaks This System, and Why, and How Can I Fix It?",
+        
+        description: "Ten years, four domains, one question.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/what-breaks-this-system/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
