@@ -8,12 +8,24 @@ nav_order: 5
 
 ## Travel
 
+I love traveling. The maps below show where I've been — 18 states across India and 25 states across the US.
+
 ### India
 
-I've visited **18 states** across India.
+One summer, I completed the **Sar Pass Trek** (highest point: 13,800 feet) in the Himalayas. Food and photography are my other interests.
 
 <div class="travel-map">
-  <img src="https://douwe.com/projects/visited/india.png?selected=AN,TG,AP,DL,GA,GJ,HP,JK,KL,MP,MH,OR,PB,RJ,SK,TN,UP,WB" width="720" height="400" alt="Map of India showing visited states" />
+  <img src="https://douwe.com/projects/visited/india.png?selected=AN,TG,AP,DL,GA,GJ,HP,JK,KL,MP,MH,OR,PB,RJ,SK,TN,UP,WB" width="720" height="400" alt="Map of India — 18 states visited" />
+</div>
+
+### United States
+
+<div class="travel-map">
+  <img src="https://douwe.com/projects/visited/usa.png?selected=AL,AR,CA,DE,FL,GA,IL,IN,KS,LA,MD,MA,MS,MO,NH,NJ,NY,NC,OH,OK,PA,SC,TX,VA,WV" width="720" height="400" alt="Map of USA — 25 states visited" />
+</div>
+
+<div class="life-gallery">
+  <img src="{{ '/assets/img/life/sar_pass.jpg' | relative_url }}" alt="Sar Pass Trek, Himachal Pradesh — 13,800 ft" />
 </div>
 
 ---
@@ -21,9 +33,8 @@ I've visited **18 states** across India.
 ## Photos
 
 <div class="life-gallery">
-  <!-- Photos go here — drop images into assets/img/life/ and add them below. -->
-
-  <p class="placeholder-text">Photos coming soon.</p>
+  <!-- More photos coming soon -->
+  <p class="placeholder-text">More photos coming soon.</p>
 </div>
 
 <style>
