@@ -7,15 +7,15 @@ tags: research AI safety speech
 categories: thoughtpiece
 ---
 
-For the last ten years, I kept asking the same question: *What breaks this system — and why — and how can I fix it?* It connects everything I have worked on: speaker identification, ASR, adversarial speech, clinical AI safety, LLM-as-a-Judge, clinician–AI misalignment.
+For the last ten years, I kept asking the same question: _What breaks this system — and why — and how can I fix it?_ It connects everything I have worked on: speaker identification, ASR, adversarial speech, clinical AI safety, LLM-as-a-Judge, clinician–AI misalignment.
 
 ---
 
 ## The Question, Version 1
 
-I did my undergrad in Electronics & Telecommunication. During my master's at IIT Jodhpur, I became fascinated by audio — not because of the spectrogram, but because you could *hear* the data. One day, while choosing my thesis topic, an ISRO scientist visited the lab and asked something that sent my brain into overdrive:
+I did my undergrad in Electronics & Telecommunication. During my master's at IIT Jodhpur, I became fascinated by audio — not because of the spectrogram, but because you could _hear_ the data. One day, while choosing my thesis topic, an ISRO scientist visited the lab and asked something that sent my brain into overdrive:
 
-> *When criminals cross a border and switch languages, can you still identify the speaker?*
+> _When criminals cross a border and switch languages, can you still identify the speaker?_
 
 I knew nothing about speech, language, or speaker identity. I knew almost nothing about machine learning. I said yes anyway. That yes was the first instance of a decision I would keep making: take the problem you cannot yet solve.
 
@@ -73,4 +73,4 @@ I used to say curiosity chose this path for me. That is not quite right. At ever
 
 The thread did not connect itself. I kept tying it.
 
-*Onward.*
+_Onward._
