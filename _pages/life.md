@@ -8,14 +8,14 @@ nav_order: 5
 
 ## Travel
 
-I love traveling. The maps below show where I've been: 18 states across India and 25 states across the US.
+I love traveling. One summer, I completed the **Sar Pass Trek** (highest point: 13,800 feet) in the Himalayas. Food and photography are my other interests.
 
 <div class="sar-pass-photo">
   <img src="{{ '/assets/img/life/sar_pass.jpg' | relative_url }}" alt="Sar Pass Trek, Himachal Pradesh, 13,800 ft" />
   <p class="photo-caption">Sar Pass Trek, Himachal Pradesh (13,800 ft)</p>
 </div>
 
-One summer, I completed the **Sar Pass Trek** in the Himalayas. Food and photography are my other interests.
+The maps below show where I've been: 18 states across India and 25 states across the US.
 
 ### India
 
