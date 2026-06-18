@@ -8,24 +8,25 @@ nav_order: 5
 
 ## Travel
 
-I love traveling. The maps below show where I've been — 18 states across India and 25 states across the US.
+I love traveling. The maps below show where I've been: 18 states across India and 25 states across the US.
+
+<div class="sar-pass-photo">
+  <img src="{{ '/assets/img/life/sar_pass.jpg' | relative_url }}" alt="Sar Pass Trek, Himachal Pradesh, 13,800 ft" />
+  <p class="photo-caption">Sar Pass Trek, Himachal Pradesh (13,800 ft)</p>
+</div>
+
+One summer, I completed the **Sar Pass Trek** in the Himalayas. Food and photography are my other interests.
 
 ### India
 
-One summer, I completed the **Sar Pass Trek** (highest point: 13,800 feet) in the Himalayas. Food and photography are my other interests.
-
 <div class="travel-map">
-  <img src="https://douwe.com/projects/visited/india.png?selected=AN,TG,AP,DL,GA,GJ,HP,JK,KL,MP,MH,OR,PB,RJ,SK,TN,UP,WB" width="720" height="400" alt="Map of India — 18 states visited" />
+  <img src="https://douwe.com/projects/visited/india.png?selected=AN,TG,AP,DL,GA,GJ,HP,JK,KL,MP,MH,OR,PB,RJ,SK,TN,UP,WB" width="720" height="400" alt="Map of India, 18 states visited" />
 </div>
 
 ### United States
 
 <div class="travel-map">
-  <img src="https://douwe.com/projects/visited/usa.png?selected=AL,AR,CA,DE,FL,GA,IL,IN,KS,LA,MD,MA,MS,MO,NH,NJ,NY,NC,OH,OK,PA,SC,TX,VA,WV" width="720" height="400" alt="Map of USA — 25 states visited" />
-</div>
-
-<div class="life-gallery">
-  <img src="{{ '/assets/img/life/sar_pass.jpg' | relative_url }}" alt="Sar Pass Trek, Himachal Pradesh — 13,800 ft" />
+  <img src="https://douwe.com/projects/visited/usa.png?selected=AL,AR,CA,DE,FL,GA,IL,IN,KS,LA,MD,MA,MS,MO,NH,NJ,NY,NC,OH,OK,PA,SC,TX,VA,WV" width="720" height="400" alt="Map of USA, 25 states visited" />
 </div>
 
 ---
@@ -60,6 +61,25 @@ One summer, I completed the **Sar Pass Trek** (highest point: 13,800 feet) in th
   .life-gallery {
     columns: 1;
   }
+}
+
+.sar-pass-photo {
+  margin: 1.5rem 0;
+}
+
+.sar-pass-photo img {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  border-radius: 4px;
+  display: block;
+}
+
+.photo-caption {
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+  font-style: italic;
 }
 
 .travel-map {
