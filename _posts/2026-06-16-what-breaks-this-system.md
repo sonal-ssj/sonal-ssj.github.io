@@ -21,7 +21,7 @@ I knew nothing about speech, language, or speaker identity. I knew almost nothin
 
 It also planted the question I have been asking ever since, in one form or another:
 
-> Wwhat breaks this system & why & how can I fix it?\_
+> What breaks this system & why & how can I fix it?_
 
 The domains changed. The question did not.
 
@@ -61,9 +61,9 @@ The adversary this time was not a person. It was the gap between what a model is
 
 ## What Carried Over
 
-Eighteen papers, two patents, and a path through speaker ID, noise-robust ASR, adversarial defense, keyword spotting at Microsoft, and clinical AI safety. People call it a varied career. To me it is one question asked in four rooms.
+18 papers, 2 patents & a winding path through speaker ID, noise-robust ASR, adversarial defense, keyword spotting at Microsoft, and clinical AI safety. People might call it a varied career. To me it is one question asked in four rooms.
 
-Three things held the whole way:
+Reflecting, I am connecting the dots about what defines my work:
 
 **I am comfortable starting at zero.** From that first yes to the ISRO question, to entering AI safety mid-PhD, the willingness to begin knowing nothing is what made each jump possible.
 
