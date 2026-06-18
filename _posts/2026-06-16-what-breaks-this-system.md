@@ -76,3 +76,14 @@ I used to say curiosity chose this path for me. That is not quite right. At ever
 The thread did not connect itself. I kept tying it.
 
 _Onward._
+
+
+Thanks to all mentors over the years
+
+- Mark Dredze (JHU CLSP Postdoc)
+- Najim Dehak (JHU), Jesus Villaba, Piotr Zelasko, Thomas Thebaud, Laureano Moro-Velazquez (JHU), Sanjeev Khudanpur (JHU)
+- Odette Scharenborg (TU Delft) for mentoring during PhD applications
+- Ashish Panda and Sunil Kumar Kopparapu (TCS Research & Innovation)
+- Sandeep Yadav (IIT Jodhpur) and Padmanabhan Rajan (IIT Mandi) for graduate thesis
+- Prashant Upadhay  (undergrad)
+
