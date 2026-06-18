@@ -7,7 +7,7 @@ tags: research AI safety speech
 categories: thoughtpiece
 ---
 
-For the last ten years, I kept asking the same question: _What breaks this system — and why — and how can I fix it?_ It connects everything I have worked on: speaker identification, ASR, adversarial speech, clinical AI safety, LLM-as-a-Judge, clinician–AI misalignment.
+For the last ten years, I kept asking the same question: _What breaks this system — & why — & how can I fix it?_ It connects everything I have worked on: speaker identification, ASR, adversarial speech, clinical AI safety, LLM-as-a-Judge, clinician–AI misalignment.
 
 ---
 
@@ -19,7 +19,9 @@ I did my undergrad in Electronics & Telecommunication. During my master's at IIT
 
 I knew nothing about speech, language, or speaker identity. I knew almost nothing about machine learning. I said yes anyway. That yes was the first instance of a decision I would keep making: take the problem you cannot yet solve.
 
-It also planted the question I have been asking ever since, in one form or another: **what breaks this system, and why, and how can I fix it?**
+It also planted the question I have been asking ever since, in one form or another:
+
+> Wwhat breaks this system & why & how can I fix it?\_
 
 The domains changed. The question did not.
 
@@ -31,7 +33,7 @@ It cost something. I cold-emailed professors across IITs for guidance when my ow
 
 At TCS Research I joined the speech and NLP lab and built a low-resource Hindi ASR system, bootstrapped from English acoustic models, for the mKRISHI platform serving over 400,000 Indian farmers. The question underneath was the same one from my master's: what happens to your system when the input looks nothing like the clean case you trained on?
 
-My supervisor saw the pattern before I named it. He pushed me toward a PhD. I applied broadly and got into Johns Hopkins.
+My supervisor pushed me toward a PhD. I applied broadly and got into Johns Hopkins.
 
 ---
 
@@ -67,9 +69,9 @@ Three things held the whole way:
 
 **I go toward the failure modes, and give it everything to fix them.** The interesting part of any system is where it breaks and why.
 
-**I think end-to-end.** A speech pipeline, a poisoning defense, a clinical annotation workflow — I want to know what fails, where, and why it matters to the person on the other end of the system.
+**I think end-to-end.** A speech pipeline, a poisoning defense, a clinical annotation workflow — I want to know what fails, where, & why it matters to the person on the other end of the system.
 
-I used to say curiosity chose this path for me. That is not quite right. At every fork, I chose the unmapped problem on purpose. And at every fork I asked the same three things: what breaks this, why, and how do I fix it.
+I used to say curiosity chose this path for me. That is not quite right. At every fork, I chose the unmapped problem on purpose. And at every fork I asked the same three things: what breaks this, why & how do I fix it.
 
 The thread did not connect itself. I kept tying it.
 
