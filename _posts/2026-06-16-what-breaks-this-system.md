@@ -1,15 +1,15 @@
 ---
 layout: post
-title: What Breaks This System & Why & How Can I Fix It?
+title: What Breaks This System?... Why?... How Can I Fix It?
 date: 2026-06-16 09:00:00-0400
-description: 10 years, 1 question.
+description: 10 years, 3 questions.
 tags: research AI safety speech
 categories: thoughtpiece
 ---
 
 For the last ten years, I kept asking the same question:
 
-> _What breaks this system — & why — & how can I fix it?_
+> _What breaks this system?... Why?... How can I fix it?_
 
 It connects everything I have worked on: speaker identification, speech recognition, adversarial speech, poisoning attacks and defenses, clinical AI safety, LLM-as-a-Judge, clinician–AI misalignment & diagnosing failure modes
 
@@ -25,7 +25,7 @@ I knew nothing about speech, language, or speaker identity. I knew almost nothin
 
 It also planted the question I have been asking ever since, in one form or another:
 
-> What breaks this system & why & how can I fix it?\_
+> _What breaks this system?... Why?... How can I fix it?_
 
 ---
 
@@ -59,7 +59,7 @@ Can your system stay reliable when conditions — or an adversary, or its own ov
 
 18 papers, 2 patents & a winding path through speaker ID, noise-robust ASR, adversarial defense, keyword spotting at Microsoft, and clinical AI safety. One question carries the thread of all my work:
 
-> _What breaks this system — & why — & how can I fix it?_
+> _What breaks this system?... Why?... How can I fix it?_
 
 Reflecting, I am connecting the dots about what defines my work:
 
