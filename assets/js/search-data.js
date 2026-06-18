@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/life/";
           },
-        },{id: "post-what-breaks-this-system-amp-why-amp-how-can-i-fix-it",
+        },{id: "post-what-breaks-this-system-why-how-can-i-fix-it",
         
-          title: "What Breaks This System &amp; Why &amp; How Can I Fix It?",
+          title: "What Breaks This System?... Why?... How Can I Fix It?",
         
-        description: "10 years, 1 question.",
+        description: "10 years, 3 questions.",
         section: "Posts",
         handler: () => {
           
