@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-what-breaks-this-system-and-why-and-how-can-i-fix-it",
+        },{id: "post-what-breaks-this-system-amp-why-amp-how-can-i-fix-it",
         
-          title: "What Breaks This System, and Why, and How Can I Fix It?",
+          title: "What Breaks This System &amp; Why &amp; How Can I Fix It?",
         
-        description: "Ten years, four domains, one question.",
+        description: "10 years, 1 question.",
         section: "Posts",
         handler: () => {
           
