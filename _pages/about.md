@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: Would you like to connect? [Book coffee chat with me](https://calendar.app.google/yFcWyC818DogKw677)
+  more_info: Would you like to connect? Book coffee chat with me
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -38,3 +38,6 @@ I find where AI fails and build solutions that fix it.
 I'm now looking to bring this work, trustworthy and safety-critical AI, into industry. If that's your world, I'd genuinely love to connect and learn from your experience.
 
 Outside research, you'll find me experimenting with global cuisines 🧑‍🍳️😋 or working to get more women into STEM as Board Member & Operations Manager at [Align](https://align-sec.org/).
+
+
+Would you like to connect? [Book coffee chat with me](https://calendar.app.google/yFcWyC818DogKw677)
