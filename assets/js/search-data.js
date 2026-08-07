@@ -64,7 +64,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-submitted-taxonomy-driven-performance-analysis-of-retrieval-based-open-ended-factuality-evaluation-a-medical-case-study-to-acl-arr-2026",
+            },},{id: "news-submitted-taxonomy-driven-performance-analysis-of-retrieval-based-open-ended-factuality-evaluation-a-medical-case-study-to-emnlp-2026",
           title: 'Submitted Taxonomy-Driven Performance Analysis of Retrieval-Based Open-ended Factuality Evaluation: A Medical Case Study...',
           description: "",
           section: "News",},{id: "news-submitted-a-deployment-specific-safety-framework-for-patient-facing-medical-ai-chatbots-to-nature",
