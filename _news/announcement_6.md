@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted _Taxonomy-Driven Performance Analysis of Retrieval-Based Open-ended Factuality Evaluation: A Medical Case Study_ to **ACL ARR 2026**. 📄
+Submitted _Taxonomy-Driven Performance Analysis of Retrieval-Based Open-ended Factuality Evaluation: A Medical Case Study_ to **EMNLP 2026**. 📄

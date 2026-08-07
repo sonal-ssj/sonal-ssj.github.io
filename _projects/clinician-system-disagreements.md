@@ -23,4 +23,5 @@ analysis across **6 verifier LLMs × 4 retrievers × 3 corpora** shows that scal
 reasoning effort, medical fine-tuning, and corpus expansion all fail to fix the dominant
 failure modes of retrieve-then-verify pipelines in open-ended medical settings.
 _"Taxonomy-Driven Performance Analysis of Retrieval-Based Open-ended Factuality
-Evaluation: A Medical Case Study,"_ **ACL ARR 2026**.
+Evaluation: A Medical Case Study,"_ **EMNLP 2026**.
+[Paper](https://drive.google.com/file/d/18MG95PvmTcNxKI4c6PVQeZFmQGMWvBo8/view?usp=drive_link)
