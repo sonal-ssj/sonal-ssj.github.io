@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/life/";
           },
-        },{id: "post-what-breaks-this-system-why-how-can-i-fix-it",
+        },{id: "post-jsalt-wrapped-reflections-on-evaluating-ai",
+        
+          title: "JSALT Wrapped — Reflections on Evaluating AI",
+        
+        description: "Takeaways from the 12th Frederick Jelinek Memorial Summer Workshop on measuring, judging, and Goodhart&#39;s Law.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/jsalt-2026-reflections/";
+          
+        },
+      },{id: "post-what-breaks-this-system-why-how-can-i-fix-it",
         
           title: "What Breaks This System?... Why?... How Can I Fix It?",
         
@@ -64,10 +75,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-submitted-taxonomy-driven-performance-analysis-of-retrieval-based-open-ended-factuality-evaluation-a-medical-case-study-to-emnlp-2026",
-          title: 'Submitted Taxonomy-Driven Performance Analysis of Retrieval-Based Open-ended Factuality Evaluation: A Medical Case Study...',
-          description: "",
-          section: "News",},{id: "news-submitted-a-deployment-specific-safety-framework-for-patient-facing-medical-ai-chatbots-to-nature",
+            },},{id: "news-submitted-a-deployment-specific-safety-framework-for-patient-facing-medical-ai-chatbots-to-nature",
           title: 'Submitted A Deployment-Specific Safety Framework for Patient-Facing Medical AI Chatbots to Nature. 🩺...',
           description: "",
           section: "News",},{id: "news-submitted-same-verdict-different-reasons-llm-as-a-judge-and-clinician-disagreement-on-medical-chatbot-completeness-to-hcomp-2026",
@@ -75,6 +83,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-taing-for-the-jsalt-workshop-on-responsible-ai-amp-amp-evaluation",
           title: 'TAing for the JSALT Workshop on Responsible AI &amp;amp;amp; Evaluation! 🎓',
+          description: "",
+          section: "News",},{id: "news-submitted-taxonomy-driven-performance-analysis-of-retrieval-based-open-ended-factuality-evaluation-a-medical-case-study-to-emnlp-2026",
+          title: 'Submitted Taxonomy-Driven Performance Analysis of Retrieval-Based Open-ended Factuality Evaluation: A Medical Case Study...',
           description: "",
           section: "News",},{id: "projects-agentic-evaluation-pipeline-for-medical-ai",
           title: 'Agentic Evaluation Pipeline for Medical AI',
